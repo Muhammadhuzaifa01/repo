@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    
+}
+body{
+    background-color: #f3dfec;
+    min-zoom: 500px;
+    
+}
+ 
+
+
+.back-container{
+    display: flex;
+    justify-content: space-around;
+   
+    }
+
+.front-container{
+    position: absolute;
+    top: 0;
+    left: 0 ;
+    right:0;
+   
+}
+
+.container{ 
+    position: absolute;
+    max-width: 1200px;
+    height: 550px;
+    margin-left:36px;
+    margin-top: 150px;                                                                          
+    background-color: #f5eeee;
+
+}
+.jenifer-nik{
+    position:relative;   
+    height:650px;
+    margin-left:78px;
+    margin-top:100px;
+    display: flex;
+   
+  }  
+
+
+.paragraph{
+   
+    display: block;
+    justify-content: end;
+    margin-top: -480px;
+    margin-left:580px;
+    font-family: sans-serif;
+    color:grey;
+    font-size: 100%;
+
+}
+.menu{
+ display: flex;
+ justify-content: center;
+ height:40px;
+ width: 40px;
+margin-top:-0px;
+margin-left:-0px; 
+}
+
+.profile{
+    
+    margin-left: 3px;
+}
+.text-message-icon{
+    margin-left: 3px;
+}
+.write{
+    margin-left: 4px;
+}
+.glasses{
+    margin-left: 3px;
+}
+.cloud-arrow-down{
+    margin-left: 3px;
+    margin-top: 130px;
+}
+
+.my-services{
+    display: block;
+    margin-left: 590px;
+    margin-top: 95px;
+    font-family: sans-serif;
+}
+.led-icon{
+    margin-top: 15px;
+}
+.line{
+    color:#808080 ;
+}
+.rocket{
+    display: flex;
+    height: 31px;
+    margin-left: 350px;
+    margin-top:-150px;
+    
+}
+.SEO-optimization{
+    margin-left:935px;
+    margin-top: -3px;
+}
+.line-2{
+    color: grey;
+    
+}
+.cube{
+    margin-left: -340px;
+    margin-top: -33px;
+}
+
+
