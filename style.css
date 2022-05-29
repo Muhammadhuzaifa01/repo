@@ -26,9 +26,9 @@ body{
 
 .container{ 
     position: absolute;
-    max-width: 1200px;
+    max-width: 1300px;
     height: 550px;
-    margin-left:36px;
+    margin-left:65px;
     margin-top: 150px;                                                                          
     background-color: #f5eeee;
 
@@ -36,10 +36,10 @@ body{
 .jenifer-nik{
     position:relative;   
     height:650px;
-    margin-left:78px;
+    margin-left:105px;
     margin-top:100px;
     display: flex;
-   
+    
   }  
 
 
@@ -47,13 +47,23 @@ body{
    
     display: block;
     justify-content: end;
-    margin-top: -480px;
-    margin-left:580px;
+    margin-top: -370px;
+    margin-left:520px;
     font-family: sans-serif;
     color:grey;
     font-size: 100%;
 
 }
+hr.new {
+    display: block;
+   
+    border: 1px solid #dfdfdf;
+    margin-top: 50px;
+    margin-left:490px;
+    width: 640px;
+    
+  }
+  
 .menu{
  display: flex;
  justify-content: center;
@@ -76,6 +86,10 @@ margin-left:-0px;
 .glasses{
     margin-left: 3px;
 }
+.suit-case{
+    margin-top:-150px;
+    margin-left: 4px;
+}
 .cloud-arrow-down{
     margin-left: 3px;
     margin-top: 130px;
@@ -83,10 +97,11 @@ margin-left:-0px;
 
 .my-services{
     display: block;
-    margin-left: 590px;
-    margin-top: 95px;
+    margin-left: 520px;
+    margin-top: 30px;
     font-family: sans-serif;
-}
+    }
+    
 .led-icon{
     margin-top: 15px;
 }
@@ -96,21 +111,22 @@ margin-left:-0px;
 .rocket{
     display: flex;
     height: 31px;
-    margin-left: 350px;
+    margin-left: 300px;
     margin-top:-150px;
     
 }
 .SEO-optimization{
-    margin-left:935px;
-    margin-top: -3px;
+    margin-left:820px;
+    margin-top: 1px;
+    font-family: sans-serif;
 }
 .line-2{
     color: grey;
     
 }
 .cube{
-    margin-left: -340px;
-    margin-top: -33px;
+    margin-left: -297px;
+    margin-top: -35px;
 }
 
 
